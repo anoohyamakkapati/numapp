@@ -9,7 +9,7 @@ public class num {
                 System.out.print( i);
             } else {
                 System.out.print("  ");
-            }
+            } //sridhar
 
 
         }
